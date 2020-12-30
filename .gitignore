@@ -1,0 +1,9 @@
+#Folder
+/.idea/
+/target/
+/.allure/
+
+#File
+*.iml
+*.var
+*.jar
